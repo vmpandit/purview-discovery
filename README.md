@@ -121,4 +121,4 @@ Current: **1.4.2** (December 2024)
 
 ---
 
-**Author:** Vivek | **Purpose:** Microsoft Purview Implementation Due Diligence | **License:** [Your Choice]
+**Author:** Vivek Pandit & Claude | **Purpose:** Microsoft Purview Implementation Due Diligence | **License:** [Your Choice]
